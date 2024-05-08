@@ -1,0 +1,61 @@
+.contain{
+    width: 300px;
+    height: 400px;
+    background-color: black;
+    margin-left: 43%;
+    margin-top: 7%;
+    text-align: center;
+    color: white;
+}
+.contain{
+     
+     color: aqua;
+}
+.contain .text{
+    position: relative;
+    top: 7%;
+}
+.inp1{
+    border: none;
+    background-color: black;
+    border-bottom: 2px solid white;
+    width: 250px;
+    font-size: 20px;
+    margin-top: 40px;
+    outline: none;
+    color: beige;
+}
+.inp2{
+    border: none;
+    background-color: black;
+    border-bottom: 2px solid white;
+    width: 250px;
+    font-size: 20px;
+    margin-top: 40px;
+    outline: none;
+    color: beige;
+}
+.text button{
+    width: 250px;
+    height: 44px;
+    background-color: aqua;
+    color: black;
+    border: none;
+    font-size: 22px;
+    border-radius: 25px;
+    cursor: pointer;
+}
+p{
+    margin-top: 30px;
+    font-size: 20px;
+}
+button:hover{
+    border: 3px solid aqua;
+    color:antiquewhite;
+    font-size: 20px;
+    background-color: black;
+}
+p span{
+    color:aqua;
+    cursor: pointer;
+}
